@@ -1,2 +1,2 @@
-# olimpi-k
+# olimpiak
 ## GitHub proba

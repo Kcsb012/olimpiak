@@ -1,4 +1,4 @@
-# olimpiak
-## GitHub proba
-## github proba letoltes
-## github proba feltoltes
+# olimpiak weblap
+## GitHub proba            
+## készítő: Kcsb
+## 9.A csop1
